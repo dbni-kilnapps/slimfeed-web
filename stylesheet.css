@@ -26,3 +26,8 @@ h5{
 a {
  margin-top: 2rem;
 }
+h1 span {
+ font-size: 20px;
+ font-weight: 300;
+ vertical-align: 200%;
+}
