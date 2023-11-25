@@ -31,3 +31,7 @@ h1 span {
  font-weight: 300;
  vertical-align: 200%;
 }
+.download-row *{
+ /*force height*/
+ height: 50px;
+}
