@@ -35,3 +35,7 @@ h1 span {
  /*force height*/
  height: 50px;
 }
+
+.inactive{
+ filter: grayscale(100%);
+}
